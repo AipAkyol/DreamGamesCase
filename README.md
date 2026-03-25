@@ -3,6 +3,11 @@
 ## Overview
 This project is a case study developed for Dream Games, demonstrating a Unity-based 2D game implementation showcasing various gameplay mechanics and features.
 
+## Development Context
+- **Timeframe:** Developed entirely within **4 days**.
+- **Technical Starting Point:** Initiated with **zero prior Unity knowledge**, requiring a rapid mastery of the engine, C# scripting, and the Universal Render Pipeline.
+- **Methodology:** 100% manual implementation; **no agentic AI** was utilized in the development or problem-solving process.
+- **Outcome:** This case study successfully secured a **technical interview** invitation from Dream Games.
 ## Project Structure
 - `Assets/`: Contains all game assets including:
   - Sprites and textures
